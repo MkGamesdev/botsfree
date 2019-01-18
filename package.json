@@ -75,7 +75,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "cd botsfree && node client"
+    "start": "node client"
   },
   "repository": {
     "type": "git",
