@@ -2,9 +2,9 @@ var config = {};
 config.maxBots = 500;//Default=50. If using VPS, max=300 or lag. If not using VPS, max=100 or lag.
 config.serverPort = 8080;//Default=8081
 config.proxies = "proxy.txt";//Default=proxy.txt
-config.chatMsg = "bit.ly/mkbots";//Default=Free Snow at www.olaf4snow. com
+config.chatMsg = "mkbots.ml = good bots!";//Default=Free Snow at www.olaf4snow. com
 
 config.botSkin = "[MK]";//Default=[Olaf]
-config.botName = "bit.ly/mkbots";//Default=4snow.com
+config.botName = "mkbots.ml";//Default=4snow.com
 
 module.exports = config;
